@@ -1,0 +1,6 @@
+export const LOAD_WEATHER = 'LOAD_WEATHER';
+export const UI_START_LOADING = "UI_START_LOADING";
+export const UI_STOP_LOADING = "UI_STOP_LOADING";
+export const CURRENT_POSITION = 'CURRENT_POSITION';
+export const CURRENT_LOCATION = 'CURRENT_LOCATION';
+export const IS_DAY = 'IS_DAY';
